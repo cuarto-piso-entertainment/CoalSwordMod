@@ -1,0 +1,20 @@
+{
+  "coal_equip": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "coalsword:coal_armor",
+        "stream": false
+      }
+    ]
+  },
+  "trufa_wave": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "coalsword:trufawave",
+        "stream": false
+      }
+    ]
+  }
+}

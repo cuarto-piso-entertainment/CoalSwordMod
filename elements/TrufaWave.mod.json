@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_trufa",
+    "name": "Music Disc",
+    "description": "Trufa Wave",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:trufa_wave"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

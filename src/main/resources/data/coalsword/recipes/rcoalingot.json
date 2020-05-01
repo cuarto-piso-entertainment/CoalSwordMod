@@ -1,0 +1,11 @@
+{
+  "group": "coalsword",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "ingredient": {
+    "item": "minecraft:coal_block"
+  },
+  "result": {
+    "item": "coalsword:coalingot"
+  }
+}

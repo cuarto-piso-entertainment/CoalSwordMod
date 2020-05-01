@@ -1,0 +1,30 @@
+{
+  "group": "coalsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "coalsword:screwdriver"
+    },
+    "4": {
+      "item": "coalsword:coalblade"
+    },
+    "6": {
+      "item": "coalsword:screw"
+    },
+    "7": {
+      "item": "coalsword:coalswordlevel5"
+    },
+    "8": {
+      "item": "coalsword:screw"
+    }
+  },
+  "result": {
+    "item": "coalsword:coalswordlevelfive",
+    "count": 1
+  }
+}

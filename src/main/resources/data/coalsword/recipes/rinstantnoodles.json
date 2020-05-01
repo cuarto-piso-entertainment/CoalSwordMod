@@ -1,0 +1,11 @@
+{
+  "group": "coalsword",
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "ingredient": {
+    "item": "coalsword:noodles"
+  },
+  "result": {
+    "item": "coalsword:instantnoodles"
+  }
+}

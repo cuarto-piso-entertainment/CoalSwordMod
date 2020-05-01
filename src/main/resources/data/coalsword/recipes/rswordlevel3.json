@@ -1,0 +1,19 @@
+{
+  "group": "coalsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "coalsword:coalswordleveltwo"
+    },
+    "1": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "coalsword:coalswordlevel3",
+    "count": 1
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.DYE#16"
+      },
+      {
+        "value": "Items.DYE#16"
+      },
+      {
+        "value": "Items.DYE#16"
+      },
+      {
+        "value": "Items.DYE#16"
+      },
+      {
+        "value": "CUSTOM:CoalSwordLevelThree"
+      },
+      {
+        "value": "Items.DYE#16"
+      },
+      {
+        "value": "Items.DYE#16"
+      },
+      {
+        "value": "Items.DYE#16"
+      },
+      {
+        "value": "Items.DYE#16"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CoalSwordLevel4"
+    },
+    "name": "rcoalswordlevel4",
+    "namespace": "mod"
+  }
+}

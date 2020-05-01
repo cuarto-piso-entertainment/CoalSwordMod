@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "coal_sword_level_five",
+    "customModelName": "Normal",
+    "name": "Coal Sword Level Five",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 4.0,
+    "attackSpeed": 1.5999999999999999,
+    "enchantability": 2,
+    "damageVsEntity": 7.0,
+    "usageCount": 131,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

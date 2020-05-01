@@ -1,0 +1,42 @@
+{
+  "group": "coalsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "coalsword:instantnoodles"
+    },
+    "1": {
+      "item": "coalsword:instantnoodles"
+    },
+    "2": {
+      "item": "coalsword:instantnoodles"
+    },
+    "3": {
+      "item": "coalsword:instantnoodles"
+    },
+    "4": {
+      "item": "coalsword:coalswordlevel3"
+    },
+    "5": {
+      "item": "coalsword:instantnoodles"
+    },
+    "6": {
+      "item": "coalsword:instantnoodles"
+    },
+    "7": {
+      "item": "coalsword:instantnoodles"
+    },
+    "8": {
+      "item": "coalsword:instantnoodles"
+    }
+  },
+  "result": {
+    "item": "coalsword:coalswordlevelthree",
+    "count": 1
+  }
+}

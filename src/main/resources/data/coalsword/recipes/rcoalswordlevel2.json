@@ -1,0 +1,42 @@
+{
+  "group": "coalsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "coalsword:glassshard"
+    },
+    "1": {
+      "item": "coalsword:glassshard"
+    },
+    "2": {
+      "item": "coalsword:glassshard"
+    },
+    "3": {
+      "item": "coalsword:glassshard"
+    },
+    "4": {
+      "item": "minecraft:clay_ball"
+    },
+    "5": {
+      "item": "coalsword:glassshard"
+    },
+    "6": {
+      "item": "coalsword:glassshard"
+    },
+    "7": {
+      "item": "coalsword:coalsword"
+    },
+    "8": {
+      "item": "coalsword:glassshard"
+    }
+  },
+  "result": {
+    "item": "coalsword:coalswordlevel2",
+    "count": 1
+  }
+}

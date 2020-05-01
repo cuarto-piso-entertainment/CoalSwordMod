@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "coalsword:block/coaldimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "coalsword:block/coaldimension_portal_ns"
+    }
+  }
+}
